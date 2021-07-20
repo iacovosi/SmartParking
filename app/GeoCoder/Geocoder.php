@@ -12,15 +12,15 @@ use Illuminate\Support\Facades\DB;
 
 class Geocoder
 {
-    public $API_KEY_LOCATIONIQ = "1b946e66453b76";
-    public $BingMapsKey = "AqhYD4nQZTzx17Ucz1xhBqO-Q7cX4nxhdmYUkI-nO-PoH0mY_wPspx88vKJOJ9XQ";
-    public $googlemapsKeyOLD = "AIzaSyBc3J_hcXp7nZi9e4O4t6ZrZvxpZIq8Nqo";
-    public $googlemapsKey = "AIzaSyDSDSHK4GFgfBPFdoyZ_mtD9ZiHEE4oBn0";
-    public $googlemapsKeyForDirectionAPI = "AIzaSyDSDSHK4GFgfBPFdoyZ_mtD9ZiHEE4oBn0";
-    public $googlemapsKeyForDistanceMatrixAPI = "AIzaSyDSDSHK4GFgfBPFdoyZ_mtD9ZiHEE4oBn0";
-    public $googlemapsKeyForPlacesAPI = "AIzaSyDSDSHK4GFgfBPFdoyZ_mtD9ZiHEE4oBn0";//"AIzaSyAwSEhIUr8CUM8nhRaa17rEbeG8QsMPHzc";
-    public $openrouteservice = "5b3ce3597851110001cf6248aa5b23acdc1e46588df68e314d830c6b";
-    public $ParkWhiz = "e7b574a31c8b483421a31f05fe0a62d91b1bb3b0";
+    public $API_KEY_LOCATIONIQ = "";
+    public $BingMapsKey = "";
+    public $googlemapsKeyOLD = "";
+    public $googlemapsKey = "";
+    public $googlemapsKeyForDirectionAPI = "";
+    public $googlemapsKeyForDistanceMatrixAPI = "";
+    public $googlemapsKeyForPlacesAPI = "";
+    public $openrouteservice = "";
+    public $ParkWhiz = "";
 
 
     //https://tech.yandex.com/maps/mapsapi/
